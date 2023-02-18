@@ -1,0 +1,8 @@
+.cart-list {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+}
+.remove {
+  align-self: flex-end;
+}
